@@ -3,7 +3,7 @@
 This project contains the end-to-end data pipeline for the Analytics Engineer task - to measure driver engagement. It covers everything from initial Snowflake setup to final reporting models.
 
 ## Where to start
-* **Appendix_AE Task.docx**: Start here for a detailed technical overview of the logic, data quality decisions, and architectural choices.
+* **Appendix AE.pdf**: Start here for a detailed technical overview of the logic, data quality decisions, and architectural choices.
 ---
 
 ## 🏗 Project Structure
